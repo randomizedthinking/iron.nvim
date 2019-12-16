@@ -24,6 +24,7 @@ end
 
 python.ptipython = def({"ptipython"})
 python.ipython = def({"ipython", "--no-autoindent"})
+python.ipython3 = def({"ipython3", "--no-autoindent"})
 python.ptpython = def({"ptpython"})
 python.python = {
   command = {"python"},
